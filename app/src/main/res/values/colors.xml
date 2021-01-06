@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B8BBE</color>
+    <color name="colorPrimaryDark">#306998</color>
+    <color name="colorAccent">#646464</color>
+    <color name="whiteColor">#faebd7</color>
+    <color name="blackColor">#000000</color>
+    <color name="bumblebeeColor">#FFE873</color>
+    <color name="realWhiteColor">#ffffff</color>
+    <color name="egyptianColor">#4B8BBE</color>
+    <color name="greyShadeColor">#5d5d5d</color>
+</resources>

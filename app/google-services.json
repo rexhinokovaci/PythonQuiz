@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566888081494",
+    "project_id": "pythonquiz-1fbdc",
+    "storage_bucket": "pythonquiz-1fbdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566888081494:android:ef64d1959b0c58e5c033f7",
+        "android_client_info": {
+          "package_name": "com.modex.pythonquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566888081494-m0546kj5vv5k6dbbvr9o8mmok6ak0876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UiNlG_49UMk7dbIuViSSXjRvEzjhoFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566888081494-m0546kj5vv5k6dbbvr9o8mmok6ak0876.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
